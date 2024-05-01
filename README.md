@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bozhidar-lambov-b2a7b8210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bozhidar-lambov-b2a7b8210/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bojonator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojonator/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucij4lnsyw3ziomfy1t3d-kq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucij4lnsyw3ziomfy1t3d-kq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCIj4lNSYW3zIomfY1t3d-kQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucij4lnsyw3ziomfy1t3d-kq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
