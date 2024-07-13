@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bozhidar</h1>
 <h3 align="center">A passionate fullstack developer from Bulgaria</h3>
 
-- I am currently learning **Angular**
+- I am currently learning **Angular and React**
 
 - ⚡ Fun fact **I think I am sometimes funny**
 
