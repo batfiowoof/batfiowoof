@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bozhidar</h1>
 <h3 align="center">A passionate fullstack developer from Bulgaria</h3>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
@@ -101,10 +99,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batfiowoof/batfiowoof/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/batfiowoof/batfiowoof/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/batfiowoof/batfiowoof/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/batfiowoof/batfiowoof/output/snake.svg" alt="Snake animation" />
 
 ###
